@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00028518_021.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00028518_021.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Effusion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184.888888888889</xmin>
+			<ymin>678.437934027778</ymin>
+			<xmax>370.34666666666703</xmax>
+			<ymax>784.2512673611111</ymax>
+		</bndbox>
+	</object>
+</annotation>

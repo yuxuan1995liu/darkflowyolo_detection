@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00021772_016.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00021772_016.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nodule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171.208465608466</xmin>
+			<ymin>192.880423280423</ymin>
+			<xmax>262.2306878306882</xmax>
+			<ymax>275.2338624338622</ymax>
+		</bndbox>
+	</object>
+</annotation>

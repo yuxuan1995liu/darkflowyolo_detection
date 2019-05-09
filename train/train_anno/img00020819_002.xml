@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00020819_002.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00020819_002.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cardiomegaly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368.42328042328</xmin>
+			<ymin>340.249735449735</ymin>
+			<xmax>862.5439153439149</xmax>
+			<ymax>736.84656084656</ymax>
+		</bndbox>
+	</object>
+</annotation>

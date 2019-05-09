@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00027652_003.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00027652_003.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pneumothorax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75.8518518518519</xmin>
+			<ymin>202.632804232804</ymin>
+			<xmax>221.0539682539679</xmax>
+			<ymax>717.341798941799</ymax>
+		</bndbox>
+	</object>
+</annotation>

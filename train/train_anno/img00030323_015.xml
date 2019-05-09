@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00030323_015.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00030323_015.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615.483597883598</xmin>
+			<ymin>423.686772486772</ymin>
+			<xmax>840.871957671958</xmax>
+			<ymax>714.091005291005</ymax>
+		</bndbox>
+	</object>
+</annotation>

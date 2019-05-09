@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00003789_000.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00003789_000.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pneumonia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272.497777777778</xmin>
+			<ymin>569.211267361111</ymin>
+			<xmax>372.62222222222204</xmax>
+			<ymax>662.5090451388888</ymax>
+		</bndbox>
+	</object>
+</annotation>

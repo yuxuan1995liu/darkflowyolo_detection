@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00021024_022.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00021024_022.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Atelectasis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719.508994708995</xmin>
+			<ymin>522.29417989418</ymin>
+			<xmax>882.048677248678</xmax>
+			<ymax>713.007407407408</ymax>
+		</bndbox>
+	</object>
+</annotation>

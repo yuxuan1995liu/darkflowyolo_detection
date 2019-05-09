@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00026538_034.png</filename>
+	<path>/Users/yuxuan/Desktop/xraydataset/images/00026538_034.png</path>
+	<source>
+		<database>nih</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Infiltrate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501.70582010582</xmin>
+			<ymin>488.702645502646</ymin>
+			<xmax>688.084656084656</xmax>
+			<ymax>710.840211640212</ymax>
+		</bndbox>
+	</object>
+</annotation>
